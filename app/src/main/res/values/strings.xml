@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Shape Challenge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_mainMenu">Main Menu</string>
+    <string name="title_activity_game_screen">GameScreen</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_game_over">Game Over</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1245676020650503/6477508066</string>
+    <string name="title_activity_game_screen2">GameScreen2</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_game_over2">GameOver2</string>
+
+</resources>
